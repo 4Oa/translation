@@ -78,7 +78,7 @@ const translations: Translations = {
     "I record C contengono più di 20 righe, non sono in grado di analizzare l'attività.",
     'Rekordy C zawierają więcej niż 20 lini, nie można przeanalizować zadania.',
     '',
-    'C запис містить більше 20 рядків, неможливо розпарсити завдання.',
+    'C-запис містить більше 20 рядків, неможливо розпарсити завдання.',
   ],
   NO_LANDING: [
     'Did not detect landing.',
@@ -265,7 +265,7 @@ const translations: Translations = {
     'Il record A è troppo corto.',
     'Rekord A jest za krótki.',
     '',
-    'A запис занадто короткий.',
+    'A-запис занадто короткий.',
   ],
   H_RECORD_NO_DATE: [
     'No date in H Record provided.',
@@ -287,7 +287,7 @@ const translations: Translations = {
     'Nessun record H fornito.',
     'Nie podano rekordu H.',
     '',
-    'H запис не надано.',
+    'H-запис не надано.',
   ],
   AVG_GNSS_ALT_CHANGE: [
     'Average GNSS altitude change between fixes in your file is {}, Minimum is {}.',
@@ -364,7 +364,7 @@ const translations: Translations = {
     'Nessun sensore FES trovato, sensori FES consentiti: {}.',
     'Nie wykryto czujnika FES, dozwolone czujniki FES: {}.',
     '',
-    'Не вивлено сенсора FES, дозволені сенсори :{}.'
+    'Не виявлено сенсора FES, дозволені сенсори :{}.'
   ],
   NO_SCORING_WINDOWS: [
     'No scoring windows were found.',
